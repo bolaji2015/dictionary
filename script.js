@@ -26,11 +26,9 @@ search.addEventListener('click', e =>{
            <div id="audio">Audio:- ${converteddata[0].phonetics[0].audio}</div>
            <div id="partofspeech">part-of-Speech:- ${converteddata[0].meanings[i].partOfSpeech}</div>      
            `
-           if($converteddata[0].meanings[i].definitions[0].example == 'undefine'){
-            alert(hello)
-        }
         }
         show_all.innerHTML = output;
+        
     })
     })
     
