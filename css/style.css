@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+.col-12{
+    text-align: center;
+    position: relative;
+    top: 100px;
+    border: 1px solid black;
+    padding: 80px;
+    background-color: rgb(5, 5, 5);
+}
+#show{
+    padding: 5px;
+    max-width: 100%;
+}
+#search{
+padding: 5px;
+margin-top: 10px;
+color: red;
+border-radius: 10px;
+background-color: orange;
+
+}
+#search:hover{
+    padding:10px;
+    background-color: gold;
+}
+h1{
+    text-align: center;
+}
+#show{
+    border-radius: 20px;
+
+}
+p{
+    color: white;
+    background-color: brow
+
+}
+#show_all{
+    color: wheat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+#input{
+    font-size: 20px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    background-color: gold;
+}
+#rule{
+    color: white;
+    font-size: larger;
+
+}
+
